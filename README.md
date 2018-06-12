@@ -16,8 +16,10 @@
 
 ## Run the Examples
 
-1) Clone the repository
+1) Fork the repository and either
 
-2) Run Jupyter Notebook in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?filepath=./)
+a) Run Jupyter Notebook in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?filepath=./)
 
-3) Run RStudio in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?urlpath=rstudio)
+b) Run RStudio in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?urlpath=rstudio)
+
+2) Clone the repository and run the notebooks locally
