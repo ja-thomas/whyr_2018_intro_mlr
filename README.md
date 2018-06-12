@@ -14,12 +14,10 @@
     - ParamHelpers <https://github.com/berndbischl/ParamHelpers>
 
 
-## Run the Examples
+## Run the Exercise
 
-1) Fork the repository and either
-
-a) Run Jupyter Notebook in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?filepath=./)
-
-b) Run RStudio in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?urlpath=rstudio)
+1) Fork the repository and run Jupyter Notebook in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?filepath=./)
 
 2) Clone the repository and run the notebooks locally
+
+3) Run everything locally in your prefered IDE
