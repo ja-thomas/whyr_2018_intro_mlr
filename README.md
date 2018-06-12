@@ -16,8 +16,10 @@
 
 ## Run the Exercise
 
+You have three possibilties:
+
 1) Fork the repository and run Jupyter Notebook in binder: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/ja-thomas/whyr_2018_intro_mlr/master?filepath=./)
 
 2) Clone the repository and run the notebooks locally
 
-3) Run everything locally in your prefered IDE
+3) Write the code locally in your prefered IDE
