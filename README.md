@@ -1,6 +1,8 @@
-![](https://d1ll4kxfi4ofbm.cloudfront.net/file/event/188793/logo/logo3_188793_20180308214056.jpg)
+![mlr](https://raw.githubusercontent.com/mlr-org/mlr/master/man/figures/logo.png)  Workshop - Beginners
+===================================
 
-# mlr Workshop - Beginners
+
+![](https://d1ll4kxfi4ofbm.cloudfront.net/file/event/188793/logo/logo3_188793_20180308214056.jpg)
 
 
 ## Important Links
